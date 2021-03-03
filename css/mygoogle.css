@@ -9,7 +9,7 @@
   max-height: 100%;
   max-width: 100%;
   object-fit: contain;
-  object-position: center top;
+  /* object-position: center top; */
   width: auto;
   text-align: center;
   padding-top: 10%;
